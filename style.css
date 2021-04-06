@@ -1,0 +1,101 @@
+body {
+     background-color:white;
+}
+
+span{
+    background-color:white;
+}
+
+/*text formating*/ 
+
+#image:hover .surprise{
+    color:red;
+    font-size:40px;
+    visibility:visible;
+}
+
+.hide{
+    visibility:hidden;
+}
+
+.bigger{
+    font-size:25px;
+}
+
+h1{
+    color:#8200b8;
+    font-family: Marvel;
+    text-align: center;
+    font-size: 70px;
+}
+
+h3{
+    text-align:center;
+    font-family:play;
+}
+
+h4{
+    text-align:center;
+    font-family:play;
+}
+
+table{
+    text-align:center;
+    font-family:play;
+    border-style: none;
+
+}
+th{
+    font-size:50px;
+    font-family:Marvel;
+}
+
+p{
+   font-family:play;
+   text-align:center;
+}
+
+.size{
+    width: 150px;
+    
+}
+
+/*Navigation bar css*/
+
+.topnav {
+  background-color: #550278;
+  overflow: hidden;
+  font-family:play;
+    
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #280138;
+  color: white;
+}
+
+/*image animation*/
+
+img:hover{
+    width:200px;
+}
+
+/*Carosel*/
+#mycarosel{ 
+    height:150;
+    width:150;
+}
